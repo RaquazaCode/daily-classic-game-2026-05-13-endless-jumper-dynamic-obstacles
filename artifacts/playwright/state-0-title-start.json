@@ -1,0 +1,63 @@
+{
+  "mode": "title",
+  "score": 0,
+  "progress": 0,
+  "elapsedMs": 0,
+  "speed": 300,
+  "message": "Pulse lanes reset every cycle. Time jumps to each opening.",
+  "lastCrashReason": null,
+  "clearedCount": 0,
+  "totalObstacles": 8,
+  "ringsCollectedCount": 0,
+  "totalRings": 8,
+  "world": {
+    "width": 960,
+    "height": 540,
+    "groundY": 444,
+    "finishDistance": 4320,
+    "coordinateSystem": "origin top-left, x increases right, y increases down"
+  },
+  "player": {
+    "x": 188,
+    "y": 384,
+    "width": 56,
+    "height": 60,
+    "vy": 0,
+    "grounded": true,
+    "jumps": 0,
+    "bottom": 444
+  },
+  "upcoming": [
+    {
+      "id": "pulse-01",
+      "label": "Warm-Up Step",
+      "screenX": 640,
+      "width": 82,
+      "jumpCue": 244,
+      "maxHeight": 60.11,
+      "cleared": false,
+      "segments": [
+        {
+          "x": 640,
+          "width": 82,
+          "top": 383.89,
+          "height": 60.11
+        }
+      ]
+    }
+  ],
+  "rings": [
+    {
+      "id": "pulse-01-ring",
+      "screenX": 688,
+      "y": 288,
+      "radius": 15
+    }
+  ],
+  "counters": {
+    "cleared": "0/8",
+    "rings": "0/8",
+    "combo": 0,
+    "peakCombo": 0
+  }
+}

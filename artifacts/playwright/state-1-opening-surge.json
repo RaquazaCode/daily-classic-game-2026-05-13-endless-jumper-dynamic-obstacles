@@ -1,0 +1,109 @@
+{
+  "mode": "running",
+  "score": 504,
+  "progress": 22.72,
+  "elapsedMs": 3167,
+  "speed": 310.94,
+  "message": "Split Lift cleared. Combo 2.",
+  "lastCrashReason": null,
+  "clearedCount": 2,
+  "totalObstacles": 8,
+  "ringsCollectedCount": 1,
+  "totalRings": 8,
+  "world": {
+    "width": 960,
+    "height": 540,
+    "groundY": 444,
+    "finishDistance": 4320,
+    "coordinateSystem": "origin top-left, x increases right, y increases down"
+  },
+  "player": {
+    "x": 188,
+    "y": 257.25,
+    "width": 56,
+    "height": 60,
+    "vy": 425,
+    "grounded": false,
+    "jumps": 2,
+    "bottom": 317.25
+  },
+  "upcoming": [
+    {
+      "id": "pulse-02",
+      "label": "Split Lift",
+      "screenX": 78.69,
+      "width": 86,
+      "jumpCue": 252,
+      "maxHeight": 38,
+      "cleared": true,
+      "segments": [
+        {
+          "x": 78.69,
+          "width": 34,
+          "top": 420,
+          "height": 24
+        },
+        {
+          "x": 136.69,
+          "width": 28,
+          "top": 406,
+          "height": 38
+        }
+      ]
+    },
+    {
+      "id": "pulse-03",
+      "label": "Skyline Gate",
+      "screenX": 518.69,
+      "width": 92,
+      "jumpCue": 264,
+      "maxHeight": 91.91,
+      "cleared": false,
+      "segments": [
+        {
+          "x": 518.69,
+          "width": 92,
+          "top": 352.09,
+          "height": 91.91
+        }
+      ]
+    },
+    {
+      "id": "pulse-04",
+      "label": "Zipper Pair",
+      "screenX": 958.69,
+      "width": 114,
+      "jumpCue": 258,
+      "maxHeight": 105.2,
+      "cleared": false,
+      "segments": [
+        {
+          "x": 958.69,
+          "width": 44,
+          "top": 389.64,
+          "height": 54.36
+        },
+        {
+          "x": 1028.69,
+          "width": 44,
+          "top": 338.8,
+          "height": 105.2
+        }
+      ]
+    }
+  ],
+  "rings": [
+    {
+      "id": "pulse-03-ring",
+      "screenX": 560.69,
+      "y": 238,
+      "radius": 16
+    }
+  ],
+  "counters": {
+    "cleared": "2/8",
+    "rings": "1/8",
+    "combo": 2,
+    "peakCombo": 2
+  }
+}

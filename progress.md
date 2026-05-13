@@ -5,10 +5,23 @@ Original prompt: Automation: Daily Classic Game. Build the next queue-selected g
 - Preflight passed and repaired the `c51b` worktree symlink before selection work.
 - Queue head confirmed as `endless-jumper`; chosen twist is `Dynamic obstacles`.
 - Fresh canonical folder created at `games/2026-05-13-endless-jumper-dynamic-obstacles/`.
-- Scaffold files created for the first `main` commit and immediate GitHub repo creation.
+- Scaffold commit created on `main`, then the GitHub repo was created and `codex/endless-jumper-dynamic-obstacles` became the feature branch.
+
+## Implementation
+
+- Built a deterministic pulse-lane runner with eight obstacle clusters, optional ring pickups, combo scoring, pause, reset, restart, and fullscreen support.
+- Added `window.advanceTime(ms)` and `window.render_game_to_text()` for deterministic browser verification.
+- Added a stateful autopilot helper, Node tests, a self-check, and a Playwright capture pipeline that exports screenshots, GIFs, state dumps, and the action payload.
+
+## Verification
+
+- `pnpm install` passed.
+- `pnpm test` passed after tuning the route, browser payload shape, and capture-step timing.
+- `pnpm build` passed.
+- `pnpm capture` passed and produced six screenshots plus three GIF clips.
+- Proof route result: `13.13s`, `2875` score, `8/8` gates, `6/8` rings, peak combo `8`.
 
 ## Next
 
-- Initialize git in the daily folder and create the scaffold commit.
-- Create the GitHub repo and push `main`.
-- Branch to `codex/endless-jumper-dynamic-obstacles` for gameplay, tests, and capture assets.
+- Push the feature branch after committing the gameplay and verification work.
+- Open PR `codex/endless-jumper-dynamic-obstacles` into `main`, merge with a merge commit, rerun post-merge checks, then move to Vercel verification/deploy and automation record updates.

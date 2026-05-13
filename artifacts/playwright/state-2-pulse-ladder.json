@@ -1,0 +1,115 @@
+{
+  "mode": "running",
+  "score": 1636,
+  "progress": 62.86,
+  "elapsedMs": 8483,
+  "speed": 344.67,
+  "message": "Breaker Wall cleared. Combo 6.",
+  "lastCrashReason": null,
+  "clearedCount": 6,
+  "totalObstacles": 8,
+  "ringsCollectedCount": 4,
+  "totalRings": 8,
+  "world": {
+    "width": 960,
+    "height": 540,
+    "groundY": 444,
+    "finishDistance": 4320,
+    "coordinateSystem": "origin top-left, x increases right, y increases down"
+  },
+  "player": {
+    "x": 188,
+    "y": 257.25,
+    "width": 56,
+    "height": 60,
+    "vy": 425,
+    "grounded": false,
+    "jumps": 6,
+    "bottom": 317.25
+  },
+  "upcoming": [
+    {
+      "id": "pulse-06",
+      "label": "Breaker Wall",
+      "screenX": 89.46,
+      "width": 72,
+      "jumpCue": 282,
+      "maxHeight": 59.5,
+      "cleared": true,
+      "segments": [
+        {
+          "x": 89.46,
+          "width": 72,
+          "top": 384.5,
+          "height": 59.5
+        }
+      ]
+    },
+    {
+      "id": "pulse-07",
+      "label": "Twin Surge",
+      "screenX": 544.46,
+      "width": 102,
+      "jumpCue": 286,
+      "maxHeight": 65.7,
+      "cleared": false,
+      "segments": [
+        {
+          "x": 544.46,
+          "width": 42,
+          "top": 378.3,
+          "height": 65.7
+        },
+        {
+          "x": 612.46,
+          "width": 34,
+          "top": 391.01,
+          "height": 52.99
+        }
+      ]
+    },
+    {
+      "id": "pulse-08",
+      "label": "Final Cascade",
+      "screenX": 974.46,
+      "width": 126,
+      "jumpCue": 292,
+      "maxHeight": 104.21,
+      "cleared": false,
+      "segments": [
+        {
+          "x": 974.46,
+          "width": 34,
+          "top": 408.78,
+          "height": 35.22
+        },
+        {
+          "x": 1020.46,
+          "width": 34,
+          "top": 339.79,
+          "height": 104.21
+        },
+        {
+          "x": 1066.46,
+          "width": 34,
+          "top": 389.27,
+          "height": 54.73
+        }
+      ]
+    }
+  ],
+  "rings": [
+    {
+      "id": "pulse-07-ring",
+      "screenX": 614.46,
+      "y": 260,
+      "radius": 15
+    }
+  ],
+  "counters": {
+    "cleared": "6/8",
+    "rings": "4/8",
+    "combo": 6,
+    "peakCombo": 6
+  }
+}

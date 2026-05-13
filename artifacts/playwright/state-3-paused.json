@@ -1,0 +1,256 @@
+{
+  "before": {
+    "mode": "running",
+    "score": 1017,
+    "progress": 43.97,
+    "elapsedMs": 6017,
+    "speed": 320.38,
+    "message": "Zipper Pair cleared. Combo 4.",
+    "lastCrashReason": null,
+    "clearedCount": 4,
+    "totalObstacles": 8,
+    "ringsCollectedCount": 2,
+    "totalRings": 8,
+    "world": {
+      "width": 960,
+      "height": 540,
+      "groundY": 444,
+      "finishDistance": 4320,
+      "coordinateSystem": "origin top-left, x increases right, y increases down"
+    },
+    "player": {
+      "x": 188,
+      "y": 309.2,
+      "width": 56,
+      "height": 60,
+      "vy": 587,
+      "grounded": false,
+      "jumps": 4,
+      "bottom": 369.2
+    },
+    "upcoming": [
+      {
+        "id": "pulse-04",
+        "label": "Zipper Pair",
+        "screenX": 40.48,
+        "width": 114,
+        "jumpCue": 258,
+        "maxHeight": 61,
+        "cleared": true,
+        "segments": [
+          {
+            "x": 40.48,
+            "width": 44,
+            "top": 383,
+            "height": 61
+          },
+          {
+            "x": 110.48,
+            "width": 44,
+            "top": 404.91,
+            "height": 39.09
+          }
+        ]
+      },
+      {
+        "id": "pulse-05",
+        "label": "Metro Ladder",
+        "screenX": 450.48,
+        "width": 112,
+        "jumpCue": 272,
+        "maxHeight": 73.31,
+        "cleared": false,
+        "segments": [
+          {
+            "x": 450.48,
+            "width": 28,
+            "top": 370.69,
+            "height": 73.31
+          },
+          {
+            "x": 492.48,
+            "width": 28,
+            "top": 395.37,
+            "height": 48.63
+          },
+          {
+            "x": 534.48,
+            "width": 28,
+            "top": 399.05,
+            "height": 44.95
+          }
+        ]
+      },
+      {
+        "id": "pulse-06",
+        "label": "Breaker Wall",
+        "screenX": 905.48,
+        "width": 72,
+        "jumpCue": 282,
+        "maxHeight": 62.37,
+        "cleared": false,
+        "segments": [
+          {
+            "x": 905.48,
+            "width": 72,
+            "top": 381.63,
+            "height": 62.37
+          }
+        ]
+      }
+    ],
+    "rings": [
+      {
+        "id": "pulse-04-ring",
+        "screenX": 110.48,
+        "y": 272,
+        "radius": 15
+      },
+      {
+        "id": "pulse-05-ring",
+        "screenX": 550.48,
+        "y": 228,
+        "radius": 16
+      },
+      {
+        "id": "pulse-06-ring",
+        "screenX": 958.48,
+        "y": 216,
+        "radius": 16
+      }
+    ],
+    "counters": {
+      "cleared": "4/8",
+      "rings": "2/8",
+      "combo": 4,
+      "peakCombo": 4
+    }
+  },
+  "after": {
+    "mode": "paused",
+    "score": 1017,
+    "progress": 43.97,
+    "elapsedMs": 6017,
+    "speed": 320.38,
+    "message": "Pulse lanes paused.",
+    "lastCrashReason": null,
+    "clearedCount": 4,
+    "totalObstacles": 8,
+    "ringsCollectedCount": 2,
+    "totalRings": 8,
+    "world": {
+      "width": 960,
+      "height": 540,
+      "groundY": 444,
+      "finishDistance": 4320,
+      "coordinateSystem": "origin top-left, x increases right, y increases down"
+    },
+    "player": {
+      "x": 188,
+      "y": 309.2,
+      "width": 56,
+      "height": 60,
+      "vy": 587,
+      "grounded": false,
+      "jumps": 4,
+      "bottom": 369.2
+    },
+    "upcoming": [
+      {
+        "id": "pulse-04",
+        "label": "Zipper Pair",
+        "screenX": 40.48,
+        "width": 114,
+        "jumpCue": 258,
+        "maxHeight": 61,
+        "cleared": true,
+        "segments": [
+          {
+            "x": 40.48,
+            "width": 44,
+            "top": 383,
+            "height": 61
+          },
+          {
+            "x": 110.48,
+            "width": 44,
+            "top": 404.91,
+            "height": 39.09
+          }
+        ]
+      },
+      {
+        "id": "pulse-05",
+        "label": "Metro Ladder",
+        "screenX": 450.48,
+        "width": 112,
+        "jumpCue": 272,
+        "maxHeight": 73.31,
+        "cleared": false,
+        "segments": [
+          {
+            "x": 450.48,
+            "width": 28,
+            "top": 370.69,
+            "height": 73.31
+          },
+          {
+            "x": 492.48,
+            "width": 28,
+            "top": 395.37,
+            "height": 48.63
+          },
+          {
+            "x": 534.48,
+            "width": 28,
+            "top": 399.05,
+            "height": 44.95
+          }
+        ]
+      },
+      {
+        "id": "pulse-06",
+        "label": "Breaker Wall",
+        "screenX": 905.48,
+        "width": 72,
+        "jumpCue": 282,
+        "maxHeight": 62.37,
+        "cleared": false,
+        "segments": [
+          {
+            "x": 905.48,
+            "width": 72,
+            "top": 381.63,
+            "height": 62.37
+          }
+        ]
+      }
+    ],
+    "rings": [
+      {
+        "id": "pulse-04-ring",
+        "screenX": 110.48,
+        "y": 272,
+        "radius": 15
+      },
+      {
+        "id": "pulse-05-ring",
+        "screenX": 550.48,
+        "y": 228,
+        "radius": 16
+      },
+      {
+        "id": "pulse-06-ring",
+        "screenX": 958.48,
+        "y": 216,
+        "radius": 16
+      }
+    ],
+    "counters": {
+      "cleared": "4/8",
+      "rings": "2/8",
+      "combo": 4,
+      "peakCombo": 4
+    }
+  }
+}
