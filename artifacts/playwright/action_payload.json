@@ -1,0 +1,1624 @@
+{
+  "steps": [
+    {
+      "buttons": [
+        "enter"
+      ],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 1
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [
+        "space"
+      ],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [
+        "space"
+      ],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [
+        "space"
+      ],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [
+        "space"
+      ],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [
+        "p"
+      ],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 12
+    },
+    {
+      "buttons": [
+        "p"
+      ],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 2
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [
+        "space"
+      ],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [
+        "space"
+      ],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [
+        "space"
+      ],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [
+        "space"
+      ],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 3
+    },
+    {
+      "buttons": [
+        "r"
+      ],
+      "mouse_x": 1126,
+      "mouse_y": 291,
+      "frames": 1
+    }
+  ]
+}

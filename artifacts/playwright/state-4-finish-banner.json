@@ -1,0 +1,38 @@
+{
+  "mode": "finished",
+  "score": 2875,
+  "progress": 100.1,
+  "elapsedMs": 13133,
+  "speed": 360.22,
+  "message": "Finish surge complete in 13.13s.",
+  "lastCrashReason": null,
+  "clearedCount": 8,
+  "totalObstacles": 8,
+  "ringsCollectedCount": 6,
+  "totalRings": 8,
+  "world": {
+    "width": 960,
+    "height": 540,
+    "groundY": 444,
+    "finishDistance": 4320,
+    "coordinateSystem": "origin top-left, x increases right, y increases down"
+  },
+  "player": {
+    "x": 188,
+    "y": 384,
+    "width": 56,
+    "height": 60,
+    "vy": 0,
+    "grounded": true,
+    "jumps": 8,
+    "bottom": 444
+  },
+  "upcoming": [],
+  "rings": [],
+  "counters": {
+    "cleared": "8/8",
+    "rings": "6/8",
+    "combo": 8,
+    "peakCombo": 8
+  }
+}
